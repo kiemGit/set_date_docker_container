@@ -1,6 +1,8 @@
 set date in docker :
 
 	# set date first in main os ubuntu
+ 		# set date ubuntu
+			sudo date -s "2024-12-16 15:41:00"
 	# sudo timedatectl set-timezone Asia/Jakarta
 
 	# set on docker-compose.yml
