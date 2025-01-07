@@ -1,4 +1,5 @@
 set date in docker :
+
 	# set date first in main os ubuntu
 	# sudo timedatectl set-timezone Asia/Jakarta
 
